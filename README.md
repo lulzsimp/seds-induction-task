@@ -16,13 +16,13 @@
 
 - Implemented a speed multiplier for the animation because debugging at the speed the task required was just extremely annoying.
 
-![image](<./Joshua Daniel_2026AAPS0234H_Avionics_graph.png>)
+![graph image](<./Joshua Daniel_2026AAPS0234H_Avionics_graph.png>)
 
 <center>graph picture</center><br>
 
-![gif](<./Joshua Daniel_2026AAPS0234H_Avionics_graph_video.gif>)
+![graph gif](<./Joshua Daniel_2026AAPS0234H_Avionics_graph_video.gif>)
 
-<center>schematic</center><br>
+<center>graph gif</center><br>
 
 - The auto button seen at the end is for automatic movement of the moving data, because you'd not be interested in historical accumulation of data, rather what's to come with some history; though you can manually override it.
 
