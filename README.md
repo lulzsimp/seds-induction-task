@@ -20,11 +20,15 @@
 
 <center>graph picture</center><br>
 
+![gif](<./Joshua Daniel_2026AAPS0234H_Avionics_graph_video.gif>)
+
+<center>schematic</center><br>
+
 - The auto button seen at the end is for automatic movement of the moving data, because you'd not be interested in historical accumulation of data, rather what's to come with some history; though you can manually override it.
 
 - I tried reaching out to somebody who was in Janus whom I met in the mess randomly to ask for feedback regarding the filtering algorithms I was doing, but then they said, "ask somebody else in the group". I also tried reaching out when there was an enormous group discussion in Mess 1, where I was rightfully again, asked to leave because whatever was happening was quite important, but I'm quite sure I've done this task to a decently satisfactory level.
 
-- If I had to find a flaw: probably not using a full fledged GUI and not structuring the button properly, plus colour of sliders aren't particularly great.
+- If I had to find a flaw: probably not using a full fledged GUI and not structuring the button properly, plus colour of sliders aren't particularly great. moreover, the proximity alert should be called surface closer alert.
 
 ## Task 2
 
